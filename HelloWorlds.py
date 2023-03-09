@@ -1,1 +1,1 @@
-print("Back to the other world!")
+print("Here is the other side!")
